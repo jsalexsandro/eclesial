@@ -1,0 +1,270 @@
+{
+  "version": "1.0",
+  "regionais": [
+    {
+      "nome": "Regional Sul 1",
+      "estados": ["São Paulo"],
+      "provincias": [
+        {
+          "nome": "Província Eclesiástica de São Paulo",
+          "metropole": "São Paulo",
+          "dioceses": [
+            {
+              "nome": "Arquidiocese de São Paulo",
+              "tipo": "Arquidiocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora da Paz" },
+                { "nome": "Paróquia São Judas Tadeu" },
+                { "nome": "Paróquia Santa Teresinha do Menino Jesus" },
+                { "nome": "Paróquia São José Operário" },
+                { "nome": "Paróquia Santo Antônio" }
+              ]
+            },
+            {
+              "nome": "Diocese de Santo Amaro",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora de Fátima" },
+                { "nome": "Paróquia São João Batista" },
+                { "nome": "Paróquia Santa Luzia" }
+              ]
+            },
+            {
+              "nome": "Diocese de Osasco",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Santo Antônio" },
+                { "nome": "Paróquia Nossa Senhora do Rosário" },
+                { "nome": "Paróquia São Francisco de Assis" }
+              ]
+            },
+            {
+              "nome": "Diocese de Santo André",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora do Carmo" },
+                { "nome": "Paróquia São Bernardo" },
+                { "nome": "Paróquia Santa Maria Goretti" }
+              ]
+            },
+            {
+              "nome": "Diocese de Mogi das Cruzes",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia São Sebastião" },
+                { "nome": "Paróquia Nossa Senhora Aparecida" },
+                { "nome": "Paróquia Santa Cruz" }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Província Eclesiástica de Campinas",
+          "metropole": "Campinas",
+          "dioceses": [
+            {
+              "nome": "Arquidiocese de Campinas",
+              "tipo": "Arquidiocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora da Conceição" },
+                { "nome": "Paróquia São Benedito" },
+                { "nome": "Paróquia Santo Alberto" }
+              ]
+            },
+            {
+              "nome": "Diocese de Piracicaba",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Santo Antônio de Pádua" },
+                { "nome": "Paróquia Nossa Senhora dos Anjos" },
+                { "nome": "Paróquia São Dimas" }
+              ]
+            },
+            {
+              "nome": "Diocese de Limeira",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora das Dores" },
+                { "nome": "Paróquia São Cristóvão" },
+                { "nome": "Paróquia Santa Rita" }
+              ]
+            },
+            {
+              "nome": "Diocese de São Carlos",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia São Carlos Borromeu" },
+                { "nome": "Paróquia Nossa Senhora do Patrocínio" },
+                { "nome": "Paróquia São Sebastião" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Regional Leste 1",
+      "estados": ["Rio de Janeiro"],
+      "provincias": [
+        {
+          "nome": "Província Eclesiástica de São Sebastião do Rio de Janeiro",
+          "metropole": "Rio de Janeiro",
+          "dioceses": [
+            {
+              "nome": "Arquidiocese de São Sebastião do Rio de Janeiro",
+              "tipo": "Arquidiocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora da Glória" },
+                { "nome": "Paróquia São Sebastião" },
+                { "nome": "Paróquia Santa Rita de Cássia" },
+                { "nome": "Paróquia Nossa Senhora do Carmo da Lapa" }
+              ]
+            },
+            {
+              "nome": "Diocese de Duque de Caxias",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Santo Antônio" },
+                { "nome": "Paróquia Nossa Senhora do Pilar" },
+                { "nome": "Paróquia São Jorge" }
+              ]
+            },
+            {
+              "nome": "Diocese de Itaguaí",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia São Francisco Xavier" },
+                { "nome": "Paróquia Nossa Senhora da Conceição" },
+                { "nome": "Paróquia Santa Margarida" }
+              ]
+            },
+            {
+              "nome": "Diocese de Barra do Piraí-Volta Redonda",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora do Amparo" },
+                { "nome": "Paróquia São João Batista" },
+                { "nome": "Paróquia Santo Inácio de Loyola" }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Província Eclesiástica de Niterói",
+          "metropole": "Niterói",
+          "dioceses": [
+            {
+              "nome": "Arquidiocese de Niterói",
+              "tipo": "Arquidiocese",
+              "paroquias": [
+                { "nome": "Paróquia São João Batista" },
+                { "nome": "Paróquia Nossa Senhora da Conceição" },
+                { "nome": "Paróquia Santa Teresa" }
+              ]
+            },
+            {
+              "nome": "Diocese de Campos",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia São Salvador" },
+                { "nome": "Paróquia Nossa Senhora do Rosário" },
+                { "nome": "Paróquia São Benedito" }
+              ]
+            },
+            {
+              "nome": "Diocese de Nova Friburgo",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia São João Batista" },
+                { "nome": "Paróquia Nossa Senhora do Rosário" },
+                { "nome": "Paróquia Santo Antônio" }
+              ]
+            },
+            {
+              "nome": "Diocese de Petrópolis",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora da Conceição" },
+                { "nome": "Paróquia São Pedro de Alcântara" },
+                { "nome": "Paróquia Santa Cecília" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Regional Centro-Oeste",
+      "estados": ["Distrito Federal", "Goiás"],
+      "provincias": [
+        {
+          "nome": "Província Eclesiástica de Brasília",
+          "metropole": "Brasília",
+          "dioceses": [
+            {
+              "nome": "Arquidiocese de Brasília",
+              "tipo": "Arquidiocese",
+              "paroquias": [
+                { "nome": "Catedral Metropolitana Nossa Senhora Aparecida" },
+                { "nome": "Paróquia Dom Bosco" },
+                { "nome": "Paróquia São Francisco de Assis" },
+                { "nome": "Paróquia Santo Antônio" }
+              ]
+            },
+            {
+              "nome": "Diocese de Luziânia",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora do Perpétuo Socorro" },
+                { "nome": "Paróquia São Sebastião" },
+                { "nome": "Paróquia Santa Maria" }
+              ]
+            },
+            {
+              "nome": "Diocese de Formosa",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora da Imaculada Conceição" },
+                { "nome": "Paróquia São José" },
+                { "nome": "Paróquia Santa Clara" }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Província Eclesiástica de Goiânia",
+          "metropole": "Goiânia",
+          "dioceses": [
+            {
+              "nome": "Arquidiocese de Goiânia",
+              "tipo": "Arquidiocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora do Rosário" },
+                { "nome": "Paróquia São Judas Tadeu" },
+                { "nome": "Paróquia Divino Espírito Santo" }
+              ]
+            },
+            {
+              "nome": "Diocese de Anápolis",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Senhor Bom Jesus" },
+                { "nome": "Paróquia Nossa Senhora da Abadia" },
+                { "nome": "Paróquia São José" }
+              ]
+            },
+            {
+              "nome": "Diocese de Goiás",
+              "tipo": "Diocese",
+              "paroquias": [
+                { "nome": "Paróquia Nossa Senhora do Rosário" },
+                { "nome": "Paróquia Santana" },
+                { "nome": "Paróquia São Miguel Arcanjo" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
