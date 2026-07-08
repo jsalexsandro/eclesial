@@ -1,0 +1,64 @@
+{
+  "perguntas": [
+    {
+      "id": "q1",
+      "question": "Quem criou o céu e a terra?",
+      "alternatives": ["São Pedro", "Deus", "O Papa", "Nossa Senhora"],
+      "correctIndex": 1
+    },
+    {
+      "id": "q2",
+      "question": "Qual o nome do Filho de Deus?",
+      "alternatives": ["São José", "Moisés", "Jesus Cristo", "São João"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q3",
+      "question": "Onde mora o Papa?",
+      "alternatives": ["Roma", "Paris", "Jerusalém", "Lisboa"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "question": "Quantos sacramentos existem na Igreja Católica?",
+      "alternatives": ["5", "7", "10", "3"],
+      "correctIndex": 1
+    },
+    {
+      "id": "q5",
+      "question": "Qual o primeiro sacramento que recebemos?",
+      "alternatives": ["Crisma", "Eucaristia", "Batismo", "Confissão"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q6",
+      "question": "Qual mês é dedicado a Nossa Senhora?",
+      "alternatives": ["Junho", "Março", "Maio", "Dezembro"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q7",
+      "question": "O que significa \"Amém\"?",
+      "alternatives": ["Obrigado", "Perdão", "Assim seja", "Senhor"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q8",
+      "question": "Quem foi o primeiro Papa?",
+      "alternatives": ["São Paulo", "São Pedro", "São João", "Santo Agostinho"],
+      "correctIndex": 1
+    },
+    {
+      "id": "q9",
+      "question": "Onde Jesus nasceu?",
+      "alternatives": ["Nazaré", "Jerusalém", "Belém", "Cafarnaum"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "question": "Qual oração Jesus nos ensinou?",
+      "alternatives": ["Ave Maria", "Pai Nosso", "Credo", "Salve Rainha"],
+      "correctIndex": 1
+    }
+  ]
+}

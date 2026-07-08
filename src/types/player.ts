@@ -131,6 +131,7 @@ export interface Player {
   reputation: PlayerReputation
   finances: PlayerFinances
   inventory: PlayerInventory
+  missaCount: number
   achievements: string[]
   history: {
     sequences: YearSequence[]
@@ -240,6 +241,7 @@ export function createDefaultPlayer(
       medals: [],
       liturgicalObjects: [],
     },
+    missaCount: 0,
     achievements: [],
     history: {
       sequences: [],
